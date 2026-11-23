@@ -27,10 +27,10 @@ The **Cortical Exosleeve** control board is an open-hardware, mixed-signal 2-lay
 
 ## 3. 3D PCB Renders
 ### Top View (`F.Cu` Component Side)
-![Cortical Exosleeve PCB Top 3D View](docs/Cortical_Exosleeve_PCB_TOP.png)
+![Cortical Exosleeve PCB Top 3D View](Cortical_Exosleeve_PCB_TOP.png)
 
 ### Bottom View (`B.Cu` Partitioned Ground Plane)
-![Cortical Exosleeve PCB Bottom 3D View](docs/Cortical_Exosleeve_PCB_BOTTOM.png)
+![Cortical Exosleeve PCB Bottom 3D View](Cortical_Exosleeve_PCB_bottom.png)
 
 ---
 
