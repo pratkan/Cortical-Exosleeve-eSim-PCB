@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.2*%
+%TF.CreationDate,2026-08-17T20:13:31+05:30*%
+%TF.ProjectId,CORTICAL EXOSLEEVE,434f5254-4943-4414-9c20-45584f534c45,v1.0.0*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.2) date 2026-08-17 20:13:31*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X24410000Y-95140000D02*
+X127510000Y-95140000D01*
+X127510000Y-170550000D01*
+X24410000Y-170550000D01*
+X24410000Y-95140000D01*
+M02*
